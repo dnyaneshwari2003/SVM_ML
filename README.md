@@ -1,5 +1,4 @@
 # SVM Classification and Visualization  
-
 This project demonstrates building and visualizing a Support Vector Machine (SVM) model's classification performance and decision boundary using a spam classification dataset.
 
 ## Dataset  
