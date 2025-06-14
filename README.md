@@ -23,3 +23,7 @@ The dataset used is `spam_classification_dataset.csv` and includes the following
    - Selected the first two features for 2D visualization.  
    - Trained another SVM model and plotted the decision boundary using `matplotlib`.  
 
+## Results  
+- **Accuracy**: The SVM model achieved an accuracy of 100% on the test data.  
+- **Decision Boundary**: Visualized the separation between spam and non-spam classes in 2D space using the first two features.  
+
